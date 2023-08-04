@@ -1,0 +1,11 @@
+{
+  "config": {
+      "resolution":{
+        "width": 795,
+        "height": 480
+      },
+      "name": "Septer",
+      "version": "0.0.1",
+      "debug":true
+  }
+}
