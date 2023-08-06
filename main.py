@@ -223,4 +223,4 @@ while True:  # game loop
       framerate = round(clock.get_fps(), 1)
       win.blit(font.render("FPS: {}".format(framerate),True, white), (10, 10))
     pygame.display.update()
-    clock.tick(60)
+   clock.tick(60)
